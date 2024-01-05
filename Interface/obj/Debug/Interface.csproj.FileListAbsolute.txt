@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Interface\bin\Debug\Interface.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Interface\bin\Debug\Interface.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Interface\bin\Debug\Interface.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Interface\obj\Debug\Interface.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Interface\obj\Debug\Interface.pdb
